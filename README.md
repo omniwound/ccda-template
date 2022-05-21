@@ -6,3 +6,6 @@ This sample is fictional, it was created from test cases.
 
 # Where did you get the samples?
 We got all the samples to make each component (Allergies, Medication, etc), from: https://github.com/HL7/C-CDA-Examples.
+
+# Why was this repository created?
+This repository was created to make a publicly accessible hyperlink to our current template in accordance to §170.315(b)(10) certification criteria.
