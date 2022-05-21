@@ -9,3 +9,21 @@ We got all the samples to make each component (Allergies, Medication, etc), from
 
 # Why was this repository created?
 This repository was created to make a publicly accessible hyperlink to our current template in accordance to §170.315(b)(10) certification criteria.
+
+# How your samples were structured?
+We are using the C-CDA 2.1 XML format and our export structure looks like this:
+<ul>
+<li>HPI</li>
+<li>Social History</li>
+<li>Vital Signs</li>
+<li>Plan Of Care</li>
+<li>Medications</li>
+<li>Allergies</li>
+<li>Procedures</li>
+<li>Goals</li>
+<li>Health Concerns</li>
+<li>Immunizations</li>
+<li>Device</li>
+<li>Assessment</li>
+<li>Encounter</li>
+</ul>
