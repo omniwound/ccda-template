@@ -1,5 +1,4 @@
 # What is this repository?
-
 This is the https://omniwound.com repository of C-CDA 2.1 XML. Main template file used for patient Electronic Health Record (EHR) export.
 
 This sample is fictional, it was created from test cases.
@@ -27,3 +26,6 @@ We are using the C-CDA 2.1 XML format and our export structure looks like this:
 <li>Assessment</li>
 <li>Encounter</li>
 </ul>
+
+# Contact
+For questions on this repository please contact us at <a href="mailto:it@integratedwc.com?subject=Support Page from omniwound.com">it@integratedwc.com</a>
